@@ -36,3 +36,4 @@ def get_balance(address: str):
 # 100
 # 101
 # 105
+# 106
