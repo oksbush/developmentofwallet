@@ -12,3 +12,4 @@ def get_balance(address: str):
     manager = WalletManager()
     return manager.get_eth_balance(address)
 # 1
+# 3
