@@ -9,3 +9,4 @@ class WalletManager:
         balance = self.web3.eth.get_balance(address)
         return {"balance_wei": balance, "balance_eth": self.web3.fromWei(balance, "ether")}
 # 7
+# 17
