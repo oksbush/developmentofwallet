@@ -118,3 +118,4 @@ class SwapRequest(BaseModel):
 # 500
 # 502
 # 505
+# 506
