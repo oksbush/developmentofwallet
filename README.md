@@ -23,3 +23,4 @@ Crypto wallet API with EVM chain support (Ethereum, Arbitrum, Optimism, Base). S
 # 121
 # 122
 # 124
+# 125
