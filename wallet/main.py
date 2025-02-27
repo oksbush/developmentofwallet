@@ -13,3 +13,4 @@ def get_balance(address: str):
     return manager.get_eth_balance(address)
 # 1
 # 3
+# 5
